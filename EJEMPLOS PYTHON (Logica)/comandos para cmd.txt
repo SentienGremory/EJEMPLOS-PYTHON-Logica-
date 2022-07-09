@@ -1,0 +1,5 @@
+help (nos da comandos)
+cls (limpiar consola)
+dir (lo que hay dentro de la carpeta)
+cd (para cambiar de direccion)
+escribir cmd en la direccion de la carpeta para que se abra automatico esa carpeta en el cmd
